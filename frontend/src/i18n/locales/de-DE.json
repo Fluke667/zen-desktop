@@ -81,7 +81,10 @@
     "general": "Allgemein",
     "malware": "Malware",
     "privacy": "Datenschutz",
-    "regional": "Regional"
+    "regional": "Regional",
+    "cookies": "Cookies",
+    "annoyances": "Belästigungen",
+    "social": "Social"
   },
   "ignoredHostsInput": {
     "description": "Hosts, die vom Proxy ausgenommen werden sollen. Verwenden Sie dies für Dienste mit Zertifikats-Pinning oder solche, die durch Proxying gestört werden.",

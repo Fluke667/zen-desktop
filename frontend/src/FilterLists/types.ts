@@ -9,5 +9,7 @@ export enum FilterListType {
   SOCIAL = 'social',
   ANNOYANCES = 'annoyances',
   TRACKING = 'tracking',
+  PHISHING = 'phishing',
   CUSTOM = 'custom',
+  
 }

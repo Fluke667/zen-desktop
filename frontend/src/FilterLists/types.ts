@@ -8,5 +8,6 @@ export enum FilterListType {
   COOKIES = 'cookies',
   SOCIAL = 'social',
   ANNOYANCES = 'annoyances',
+  TRACKING = 'tracking',
   CUSTOM = 'custom',
 }
